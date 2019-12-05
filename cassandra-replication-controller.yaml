@@ -5,7 +5,7 @@ metadata:
     name: cassandra
   name: cassandra
 spec:
-  replicas: 3
+  replicas: 1
   selector:
     name: cassandra
   template:

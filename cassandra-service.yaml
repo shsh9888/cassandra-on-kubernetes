@@ -12,5 +12,3 @@ spec:
   selector:
     name: cassandra
   type: LoadBalancer
-
-
